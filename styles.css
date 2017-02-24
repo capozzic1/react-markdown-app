@@ -1,0 +1,38 @@
+
+
+#app { 
+
+height: 800px;
+text-align: center;
+
+}
+
+.textacon, .texto {
+	min-height: 500px;
+	width:48%;
+	
+	
+}
+
+ .texti, .texto { 
+border: 2px solid black;
+}
+
+.textacon { 
+float: left;
+}
+
+.texto { 
+float:right;
+}
+
+.texti { 
+min-height: 500px;
+width: 100%;
+}
+
+h1 { 
+color: slategrey;
+}
+
+
